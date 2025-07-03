@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159949956410",
+    "project_id": "ejemplologin-1f52e",
+    "storage_bucket": "ejemplologin-1f52e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159949956410:android:c4accdfc738a0fa54b9c03",
+        "android_client_info": {
+          "package_name": "olguin.amos.practicaautenticacionoilguina"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Q3t77-jr7GDDGcYs7K-J59Ew2ADn2bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
