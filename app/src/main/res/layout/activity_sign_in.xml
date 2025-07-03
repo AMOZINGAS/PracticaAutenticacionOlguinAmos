@@ -21,9 +21,11 @@
 
     <EditText
         android:id="@+id/etrEmail"
+        android:background="@drawable/edittext_rounded_gray"
+        android:paddingLeft="20dp"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
         android:layout_marginTop="40dp"
-        android:layout_width="200dp"
-        android:layout_height="40dp"
         android:hint="correo electronico"
         />
 
@@ -31,8 +33,10 @@
         android:id="@+id/etrPassword"
         android:layout_marginTop="40dp"
         android:inputType="textPassword"
-        android:layout_width="200dp"
-        android:layout_height="40dp"
+        android:background="@drawable/edittext_rounded_gray"
+        android:paddingLeft="20dp"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
         android:hint="contraseña"
         />
 
@@ -40,8 +44,10 @@
         android:id="@+id/etrConfirmPassword"
         android:layout_marginTop="40dp"
         android:inputType="textPassword"
-        android:layout_width="200dp"
-        android:layout_height="40dp"
+        android:background="@drawable/edittext_rounded_gray"
+        android:paddingLeft="20dp"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
         android:hint="confirmar contraseña"
         />
 
@@ -57,9 +63,22 @@
     <Button
         android:id="@+id/btnRegister"
         android:layout_width="150dp"
+        android:background="@drawable/button_rounded_blue"
+        android:textColor="@color/white"
         android:layout_marginTop="80dp"
         android:layout_height="40dp"
         android:text="Registrar"
+        />
+
+    <Button
+        android:id="@+id/btnRegresar"
+        android:layout_width="60dp"
+        android:layout_height="25dp"
+        android:textColor="@color/blue"
+        android:text="regresar"
+        android:textAllCaps="false"
+        android:background="@android:color/transparent"
+        android:layout_marginBottom="50dp"
         />
 
 

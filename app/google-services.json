@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:159949956410:android:c4accdfc738a0fa54b9c03",
+        "mobilesdk_app_id": "1:159949956410:android:051ec5db865fc11a4b9c03",
         "android_client_info": {
-          "package_name": "olguin.amos.practicaautenticacionoilguina"
+          "package_name": "olguin.amos.practicaautenticacionolguina"
         }
       },
       "oauth_client": [],
